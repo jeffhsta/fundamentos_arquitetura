@@ -1,4 +1,4 @@
-# Fundamentos de Arquitetura de Sisetemas
+# Fundamentos de Arquitetura de Sistemas
 
 ## Exercícios
 
